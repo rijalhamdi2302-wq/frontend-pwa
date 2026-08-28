@@ -1,0 +1,1 @@
+import{a as e}from"./dist-1nWD4rOe.js";var t=e(`WidgetBridgePlugin`);export{t as WidgetBridgePlugin};
