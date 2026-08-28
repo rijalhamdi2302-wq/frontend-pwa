@@ -2,12 +2,14 @@
   "name": "Housley — Smarter spending, closer family.",
   "short_name": "Housley",
   "description": "Family money management app — track expenses, budgets, goals, groceries and more together.",
+  "id": "https://app.housley-app.store/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FBF5FF",
   "theme_color": "#9333EA",
   "orientation": "portrait",
   "scope": "/",
+  "prefer_related_applications": false,
   "icons": [
     { "src": "/icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
